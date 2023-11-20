@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T025A2PUF": {
+      "app_id": "A066EPQC6AE",
+      "IsDev": false,
+      "team_domain": "nuix",
+      "team_id": "T025A2PUF"
+    }
+  },
+  "default": "nuix"
+}
